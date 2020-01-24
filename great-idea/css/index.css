@@ -85,13 +85,13 @@ header nav a {
 header nav a:hover {
   opacity: 1;
   transition: 0.8s; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.9);
   background-color: gray;
   color: whitesmoke;
 }
 
 img {
   max-width: 100%;  
+  padding: 10px;
 }
 
 p {
@@ -118,11 +118,11 @@ ul {
   margin: 50px 0 50px 0;
 }
 
-.about-services {
+.about-offer {
   margin: 30px 0 0 30px;
 }
 
-.about-services h1 {
+.about-offer h1 {
 	font-size: 24px;  
 }
 
